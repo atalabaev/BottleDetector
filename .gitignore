@@ -6,4 +6,8 @@ runs/
 __pycache__/
 data/
 runs/
+.venv/
 *.pt
+*.pth
+*.zip
+__pycache__/
